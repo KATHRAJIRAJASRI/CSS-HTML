@@ -1,0 +1,152 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.nav-container{
+    height: 100px;
+    width: 100%;
+    display: inline;
+    
+}
+.symbol{
+
+  display: inline;
+  margin-left: 60px;
+
+
+}
+.food{
+    text-align: center;
+   display: inline;
+   margin-left: 600px;
+
+}
+
+.mail{
+text-align: end;
+display: inline;
+margin-left: 600px;
+
+}
+.bigbox2{
+    background-color:white;
+    height: 80vh;
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    font-family: "Karma", sans-serif;
+    text-align: center;
+
+}
+.image1{
+    display: inline-block;
+    height: 90vh;
+    width: 25%;
+    border: 15px solid white;
+
+}
+
+
+.image2{
+    display: inline-block;
+    height: 90vh;
+    width: 25%;
+    border: 15px solid white;
+}
+
+
+.image3{
+    display: inline-block;
+    height: 90vh;
+    width: 25%;
+    border: 15px solid white; 
+}
+.image4{
+    display: inline-block;
+    height: 90vh;
+    width: 24%;
+    border: 15px solid white;
+}
+.bigbox3{
+    background-color:white;
+    height: 80vh;
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    font-family: "Karma", sans-serif;
+    text-align: center;
+
+}
+.image5{
+    display: inline-block;
+    height: 90vh;
+    width: 25%;
+    border: 15px solid white;
+
+}
+
+
+.image6{
+    display: inline-block;
+    height: 90vh;
+    width: 25%;
+    border: 15px solid white;
+}
+
+
+.image7{
+    display: inline-block;
+    height: 90vh;
+    width: 25%;
+    border: 15px solid white; 
+}
+.image8{
+    display: inline-block;
+    height: 90vh;
+    width: 24%;
+    border: 15px solid white;
+}
+.bigbox4{
+    font-family: "Karma", sans-serif;
+    font-weight:400 ;
+    margin-top: 200px;
+    text-align: center;
+}
+.bigbox5{
+    height: 532px;
+    width: 100%;
+    margin-top: 2px;
+    
+}
+.bigbox6
+{
+    font-weight: bolder;
+    font-size:inherit ;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.bigbox7
+{
+    font-weight: bolder;
+    font-style:italic ;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.bigbox8{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    margin-top: 20px;
+    text-align: center;
+    
+}
